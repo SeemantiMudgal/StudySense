@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Python",
+        "target_hours": 20.0,
+        "studied_hours": 0
+    },
+    {
+        "name": "python",
+        "target_hours": 20.0,
+        "studied_hours": 0
+    },
+    {
+        "name": "python assignment",
+        "target_hours": 23.0,
+        "studied_hours": 0
+    },
+    {
+        "name": "Test Python",
+        "target_hours": 10,
+        "studied_hours": 0
+    }
+]
