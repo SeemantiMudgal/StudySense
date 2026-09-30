@@ -43,3 +43,30 @@ StudySense/
 ├── README.md
 ├── statement.md
 └── .gitignore
+## Technologies / Tools Used
+
+- Python 3
+- JSON
+- Git and GitHub
+- Visual Studio Code
+## Installation and Running
+
+1. Clone the repository.
+
+2. Open the project folder in a terminal.
+
+3. Make sure Python 3 is installed.
+
+4. Run the application using:
+
+```bash
+python3 main.py
+## Testing
+
+The project includes automated tests in the `tests` folder.
+
+Install pytest:
+
+```bash
+python3 -m pip install pytest
+python3 -m pytest
